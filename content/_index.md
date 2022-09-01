@@ -6,3 +6,9 @@ Welcome to the Curriculum Department's digital brain.  We will post all of the t
 
 Try the search bar to get started.
 
+# Entry Points
+
+- [[notes/Acadience Math/Acadience Math | Acadience Math]]
+
+
+
