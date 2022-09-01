@@ -31,8 +31,3 @@ Here is the updated enrollment information. We will update annually, so the 2022
 **For 2022-2023**
 
 This course has enabled open enrollment. Students can self-enroll in the course at https://usbe.instructure.com/enroll/R4LYCM. Alternatively, they can sign up at https://usbe.instructure.com/register and use the following join code: R4LYCM
-
-```dataview
-TABLE WITHOUT ID file.mtime AS "Last Modified"
-WHERE file.path = this.file.path
-```

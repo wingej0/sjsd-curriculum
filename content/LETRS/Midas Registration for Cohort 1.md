@@ -43,8 +43,3 @@ title: "Midas Registration for Cohort 1"
 	- Room numbers
 	- Abbreviations
 	- Piggyback Registrations (Every participant **must** use their own device)
-
-```dataview
-TABLE WITHOUT ID file.mtime AS "Last Modified"
-WHERE file.path = this.file.path
-```

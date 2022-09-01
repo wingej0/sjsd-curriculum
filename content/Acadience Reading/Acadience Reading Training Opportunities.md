@@ -31,8 +31,3 @@ This course is designed to help teachers utilize their Acadience data in reading
 ## Acadience Reading Refresh Canvas Course Reset
 
 The Acadience Reading Refresh Training Course has been reset and the old course code is no longer active. The new link to the training course is https://usbe.instructure.com/enroll/JKTWLM. This will be updated on the USBE website in the next few weeks. This will allow teachers and staff who have previously taken the course to join and refresh their understanding of Acadience Reading administration rules and procedures before administering in the fall. Remember the refresh course is only for staff that have previously been fully trained and is not thorough enough to be used as an initial training. All prior certificates earned by staff have been saved and can be accessed by sending an email to teresa.mcentire@schools.utah.gov with the full name and email address of the course participant.
-
-```dataview
-TABLE WITHOUT ID file.mtime AS "Last Modified"
-WHERE file.path = this.file.path
-```

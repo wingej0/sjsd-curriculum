@@ -27,8 +27,3 @@ title: "22-23 Early Learning Plan Goals"
 
 - **Reading** - By May 26, 2023, SJSD will increase the percentage of third grade students scoring at or above benchmark on Acadience Oral Reading Fluency from middle of year to end of year by 3%.
 - **Math** - By May 26, 2023, SJSD will increase the percentage of third grade students scoring at or above benchmark on Acadience Math Composite Score from beginning of year to end of year by 10%.
-
-```dataview
-TABLE WITHOUT ID file.mtime AS "Last Modified"
-WHERE file.path = this.file.path
-```

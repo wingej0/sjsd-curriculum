@@ -8,8 +8,3 @@ These links go to Google Docs with various privacy settings to restrict access t
 - [Early Learning Plan Goals](https://docs.google.com/document/d/1k0d52TVtCihhjWFtexr1vn4V8RVjWgP5KP6NBmWgsWs/edit?usp=sharing)
 - [Appropriate Expenditures](https://docs.google.com/document/d/1avdV6NAkhzPttsImlOSUNnP5L5I4lu2wiEYmWKTBPHk/edit?usp=sharing)
 - [Budget Allocations](https://docs.google.com/document/d/1lu-OZNZqGJiTq_qpma3F0G062xiTWyJHvqraH0NZl1k/edit?usp=sharing)
-
-```dataview
-TABLE WITHOUT ID file.mtime AS "Last Modified"
-WHERE file.path = this.file.path
-```
