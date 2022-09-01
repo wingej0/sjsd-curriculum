@@ -8,6 +8,8 @@ Try the search bar to get started.
 
 # Entry Points
 
+---
+
 ## Elementary
 
 - [[notes/Acadience Math/Acadience Math | Acadience Math]]
@@ -17,5 +19,6 @@ Try the search bar to get started.
 
 ## Secondary 
 
+---
 
 
