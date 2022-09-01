@@ -8,7 +8,14 @@ Try the search bar to get started.
 
 # Entry Points
 
+## Elementary
+
 - [[notes/Acadience Math/Acadience Math | Acadience Math]]
+- [[notes/Acadience Reading/Acadience Reading | Acadience Reading]]
+- [[notes/Early Learning Plan/Early Learning Plan | Early Learning Plan]]
+- [[notes/LETRS/LETRS | LETRS]]
+
+## Secondary 
 
 
 
