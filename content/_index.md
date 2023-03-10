@@ -21,7 +21,7 @@ Try the search bar to get started.
 
 ## Policy
 
-- [[Text Selection Policy]]
+- [[notes/Policy/Text Selection Policy | Text Selection Policy]]
 
 ---
 
